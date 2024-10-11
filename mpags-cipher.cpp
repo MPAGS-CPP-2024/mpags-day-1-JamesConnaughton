@@ -2,12 +2,16 @@
 #include <string>
 
 int main(){
-    const double x{5.2};
-    std::cout << x << std::endl;
+    const int a{5};
+    const double b{4.3};
+    std::cout << a * b << std::endl;
 
-    const int y{4};
-    // y = 5; COMPILE FAIL
+    std::cout << a / b << std::endl;
 
-    const std::string my_string{"Hello!"};
-    std::cout << my_string << std::endl;
+    const int c{2};
+    std::cout << a / c << std::endl;
+
+    std::string my_string{"Hey!"};
+    char l = my_string[2];
+    std::cout << l << std::endl;
 }
