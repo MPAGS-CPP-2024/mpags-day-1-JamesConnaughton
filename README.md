@@ -9,3 +9,6 @@ James Connaughton (james.connaughton@warwick.ac.uk)
 
 ## Documentation
 TODO
+
+## Online editing
+You can even change the README file remotely, from another location!!
