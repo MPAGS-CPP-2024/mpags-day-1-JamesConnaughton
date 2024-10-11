@@ -11,4 +11,4 @@ James Connaughton (james.connaughton@warwick.ac.uk)
 TODO
 
 ## Online editing
-You can even change the README file remotely, from another location!!
+You can even change the README file from github!
